@@ -1,0 +1,3 @@
+[submodule "README.wiki"]
+	path = README.wiki
+	url = git@github.com:html5j-english/README.wiki.git
