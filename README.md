@@ -1,6 +1,6 @@
 # HTML5j 英語部
 
-## Mission
+## ミッション
 
 **世界を日本に。日本から世界へ。Web開発者のための架け橋となる。**
 
@@ -40,3 +40,7 @@ HTML5j英語部主催のイベントに関しては、[HTML5j](http://html5j.org
 
 HTML5j英語部では随時監訳者を募集しています!  
 翻訳経験がある方はぜひ[こちらのIssue](https://github.com/html5j-english/README/issues/1)にご連絡ください。
+
+## スタッフ一覧
+
+HTML5j英語部は[こちら](https://github.com/html5j-english/README/wiki/stuff)のメンバーが運営しています。
