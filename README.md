@@ -28,6 +28,14 @@ GitHub上のOrganizationへの参加には:
 1. [こちらのIssue](https://github.com/html5j-english/README/issues/2)に参加表明してください
 2. Organization下のレポジトリをForkし、翻訳をPull Requestいただいてもかまいません
 
+### メンバー同士のオンライン上での交流
+
+試験的に<https://gitter.im/html5j-english> を使ってチャットを運用しはじめています。  
+サービスの持続性や今後の値段設定などを評価しているというステータスです。
+
+定期的にオンラインミーティングなどを開催するつもりでおりますので、
+是非参加ください。
+
 ### イベントへの参加について
 
 HTML5j英語部主催のイベントに関しては、[HTML5j](http://html5j.org/)にて運営している[メーリングリスト](https://groups.google.com/forum/#!forum/html5-developers-jp/join)などで告知しています。
