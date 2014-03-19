@@ -33,10 +33,26 @@ GitHub上のOrganizationへの参加には:
 試験的に<https://gitter.im/html5j-english> を使ってチャットを運用しはじめています。  
 サービスの持続性や今後の値段設定などを評価しているというステータスです。
 
+なお、チャットに参加するためには、本Organizationに参加する必要があります。
+
 定期的にオンラインミーティングなどを開催するつもりでおりますので、
 是非参加ください。
 
 [![Gitter chat](https://badges.gitter.im/html5j-english.png)](https://gitter.im/html5j-english)
+
+### 何をすればいいの?
+
+#### 翻訳をしたい!
+
+まずは[翻訳対象メディア / ドキュメント](https://github.com/html5j-english/README/wiki/What-We-Translate)を一読ください。こちらに、html5j英語部にてターゲットとしているメディア/ドキュメント、クレジット、翻訳についての注意事項などをまとめています。
+
+翻訳対象メディア / ドキュメントから翻訳したいページがあれば、各レポジトリのIssueにて翻訳する旨、宣言してください。その際に、監訳が必要あれば、[監訳の依頼、およびPull Requestのフローについて](https://github.com/html5j-english/README/wiki/Review-and-Pull-Request-Work-Flow)を参考にしてください。
+
+#### 翻訳以外にも!
+
+html5j英語部の活動をより活発化するためにも、翻訳以外のタスクが色々とあります。  
+
+[TODO一覧](https://github.com/html5j-english/ORG/issues?labels=TODO&state=open)にて皆様のサポートをお待ちしております!
 
 ### イベントへの参加について
 
@@ -53,4 +69,4 @@ HTML5j英語部では随時監訳者を募集しています!
 
 ## スタッフ一覧
 
-HTML5j英語部は[こちら](https://github.com/html5j-english/README/wiki/stuff)のメンバーが運営しています。
+HTML5j英語部は[こちら](https://github.com/html5j-english/README/wiki/staff)のメンバーが運営しています。
