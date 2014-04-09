@@ -1,10 +1,10 @@
-# HTML5j 英語部
+# html5j 英語部
 
 ## ミッション
 
 **世界を日本に。日本から世界へ。Web開発者のための架け橋となる。**
 
-HTML5j 英語部では:
+html5j 英語部では:
 
 - 英語の情報を日本に届きやすい形に
 - 日本語の情報を世界に届ける
@@ -13,7 +13,7 @@ HTML5j 英語部では:
 
 ## 参加方法
 
-HTML5j英語部では:
+html5j英語部では:
 
 1. 定期的にハンズオン形式でのイベントの開催
 2. 本Organizationを利用したオープンな翻訳活動
@@ -56,7 +56,7 @@ html5j英語部の活動をより活発化するためにも、翻訳以外の�
 
 ### イベントへの参加について
 
-HTML5j英語部主催のイベントに関しては、[HTML5j](http://html5j.org/)にて運営している[メーリングリスト](https://groups.google.com/forum/#!forum/html5-developers-jp/join)などで告知しています。
+html5j英語部主催のイベントに関しては、[html5j](http://html5j.org/)にて運営している[メーリングリスト](https://groups.google.com/forum/#!forum/html5-developers-jp/join)などで告知しています。
 
 ## 監訳について
 
@@ -64,9 +64,9 @@ HTML5j英語部主催のイベントに関しては、[HTML5j](http://html5j.org
 
 ## 監訳者募集
 
-HTML5j英語部では随時監訳者を募集しています!  
+html5j英語部では随時監訳者を募集しています!  
 翻訳経験がある方はぜひ[こちらのIssue](https://github.com/html5j-english/README/issues/1)にご連絡ください。
 
 ## スタッフ一覧
 
-HTML5j英語部は[こちら](https://github.com/html5j-english/README/wiki/staff)のメンバーが運営しています。
+html5j英語部は[こちら](https://github.com/html5j-english/README/wiki/staff)のメンバーが運営しています。
